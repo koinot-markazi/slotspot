@@ -1,0 +1,244 @@
+[21-Apr-2023 04:59:16 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/slotspot/public_html/sendmail.php on line 13
+[21-Apr-2023 04:59:20 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/slotspot/public_html/sendmail.php on line 13
+[25-Apr-2023 06:03:44 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/slotspot/public_html/sendmail.php on line 13
+[25-Apr-2023 06:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/slotspot/public_html/sendmail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 4
+[25-Apr-2023 06:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/slotspot/public_html/sendmail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 4
+[25-Apr-2023 06:14:39 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:16:29 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:15 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:24 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 36
+[25-Apr-2023 06:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 32
+[25-Apr-2023 06:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 32
+[25-Apr-2023 06:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 32
+[25-Apr-2023 06:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:19:53 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:19:53 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 33
+[25-Apr-2023 06:20:16 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:16 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:49 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:49 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:21:44 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/slotspot/public_html/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:25:09 UTC] PHP Warning:  Undefined array key "name" in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:25:09 UTC] PHP Warning:  Undefined array key "phone" in /home/slotspot/public_html/sendmail.php on line 13
+[25-Apr-2023 06:25:09 UTC] PHP Warning:  Undefined array key "busines_name" in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:25:09 UTC] PHP Warning:  Undefined array key "busines_cat" in /home/slotspot/public_html/sendmail.php on line 15
+[25-Apr-2023 06:25:09 UTC] PHP Warning:  Undefined array key "link" in /home/slotspot/public_html/sendmail.php on line 16
+[25-Apr-2023 06:25:09 UTC] PHP Warning:  Undefined variable $username in /home/slotspot/public_html/sendmail.php on line 18
+[25-Apr-2023 06:26:36 UTC] PHP Warning:  Undefined array key "name" in /home/slotspot/public_html/sendmail.php on line 12
+[25-Apr-2023 06:26:36 UTC] PHP Warning:  Undefined array key "phone" in /home/slotspot/public_html/sendmail.php on line 13
+[25-Apr-2023 06:26:36 UTC] PHP Warning:  Undefined array key "busines_name" in /home/slotspot/public_html/sendmail.php on line 14
+[25-Apr-2023 06:26:36 UTC] PHP Warning:  Undefined array key "busines_cat" in /home/slotspot/public_html/sendmail.php on line 15
+[25-Apr-2023 06:26:36 UTC] PHP Warning:  Undefined array key "link" in /home/slotspot/public_html/sendmail.php on line 16
+[25-Apr-2023 06:26:36 UTC] PHP Warning:  Undefined variable $username in /home/slotspot/public_html/sendmail.php on line 18
+[25-Apr-2023 06:29:20 UTC] PHP Warning:  Undefined variable $username in /home/slotspot/public_html/sendmail.php on line 18
